@@ -97,6 +97,8 @@ Repositório dedicado à prática de **algoritmos, estruturas de dados e resolu�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Adicione seu LinkedIn aqui quando quiser -->
+
 
 </div>
+
+![My GitHub Game](game.gif)
