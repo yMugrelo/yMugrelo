@@ -91,14 +91,23 @@ Repositório dedicado à prática de **algoritmos, estruturas de dados e resolu�
 
 ##  Contato
 
-<div align="left">
+<p align="left">
 
-<a href="https://github.com/yMugrelo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/yMugrelo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/murilo-rosa-de-paula-b802a0279/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+
+<a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+</p>
 
 
 
 </div>
+
+
+---
+
 
 ![My GitHub Game](game.gif)
