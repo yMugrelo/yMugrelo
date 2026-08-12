@@ -71,18 +71,6 @@ Repositório dedicado à prática de **algoritmos, estruturas de dados e resolu�
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yMugrelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMugrelo&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ##  Objetivo
 
 > Construir uma base sólida como desenvolvedor, evoluir para **Machine Learning Engineer** e desenvolver sistemas de ML confiáveis e escaláveis.
@@ -101,7 +89,7 @@ Repositório dedicado à prática de **algoritmos, estruturas de dados e resolu�
   <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:murilo.paula@discente.uenp.edu.br">
   <img height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
